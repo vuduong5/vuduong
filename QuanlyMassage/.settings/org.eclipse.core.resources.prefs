@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/team1/controller/MassageController.java=UTF-8
+encoding//src/main/java/com/team1/dao/MassageDAO.java=UTF-8
+encoding//src/main/java/com/team1/dao/impl/MassageDAOImpl.java=UTF-8
+encoding//src/main/java/com/team1/entity/Massage.java=UTF-8
+encoding//src/main/java/com/team1/service/MassageService.java=UTF-8
+encoding//src/main/java/com/team1/service/impl/MassageServiceImpl.java=UTF-8
+encoding//src/main/java/com/team1/util/HibernateUtil.java=UTF-8
